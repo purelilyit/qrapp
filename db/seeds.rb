@@ -17,6 +17,7 @@ Category.create(category_id: 1, category_initials:'S7', question:"I mostly gravi
 Category.create(category_id: 1, category_initials:'S8', question:"Girls have openly shown interest in me or assumed I was gay.")
 Category.create(category_id: 1, category_initials:'S9', question:"Even at an early age when playing house with other girls, I always wanted to be the daddy.")
 Category.create(category_id: 1, category_initials:'S10', question:"Looking back, I"+"'ve always been obsessed with certain girls.")
+Category.create(category_id: 1, category_initials:'S11', question:"I was never into the "+"'male celeb fan girl crush phase"+"' like other girls.")
 Category.create(category_id: 1, category_initials:'S12', question:"As far as I remember, I have only really been attracted to girls.")
 
 Category.create(category_id: 2, category_initials:'S1', question:"I don"+"'t think of myself as particularly feminine.")
